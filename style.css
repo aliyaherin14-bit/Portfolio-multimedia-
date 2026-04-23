@@ -1,6 +1,6 @@
 body {
     margin: 30px;
-    font-family: sans-serif;
+    font-family: "Bowlby One", sans-serif;
     background-color: #4A0410;  
 
 }
@@ -9,13 +9,12 @@ justify-content: space-between;
 align-items: center;
 background-color: #f5d3df;
 border-radius: 50px;
-padding: 10px;
-
+padding: 20px;
 }
 
 h1 {
-  font-family: "Bowlby One", sans-serif;
-  font-weight: 400;
+    font-family: "Bowlby One", sans-serif;
+  font-weight: 200;
   font-style: normal;
   color: #4A0410;
   text-align: center;
@@ -27,24 +26,33 @@ h1 {
 
 a{
     font-family: "Bowlby One", sans-serif;
-  font-weight: 100;
+  font-weight: 500;
   font-style: normal;
   color: #4A0410;
   font-size: small;
   text-decoration: none;
+
 }
 
 nav{
+
     display: flex;
     gap: 20px;
 }
 
-<h1>
+section {
 
-  font-family: "Bowlby One", sans-serif;
+ 
+  color: white;
+  text-align: right;
+  font-size: x-large;
+font-family: "Itim", cursive;
   font-weight: 400;
   font-style: normal;
-  color: #4A0410;
-  text-align: center;
-  font-size: small; </h1>
+  padding-right: 360px;
+  padding-top: 50px;
+
+}
+
+
 
