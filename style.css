@@ -152,7 +152,6 @@ body{
     border-radius:50%;
 }
 
-/* ABOUT */
 .about-wrapper{
     display:flex;
     gap:40px;
@@ -407,7 +406,6 @@ body{
     font-weight:700;
 }
 
-/* FOOTER */
 footer{
     margin-top:35px;
     background:white;
